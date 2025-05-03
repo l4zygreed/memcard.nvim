@@ -1,0 +1,6 @@
+memcard	memcard.txt	/*memcard*
+memcard-carddelete	memcard.txt	/*memcard-carddelete*
+memcard-cardload	memcard.txt	/*memcard-cardload*
+memcard-cardsave	memcard.txt	/*memcard-cardsave*
+memcard-commands	memcard.txt	/*memcard-commands*
+memcard-install	memcard.txt	/*memcard-install*
